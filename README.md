@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 ## About Me
 - 💼 Full Stack Developer
-- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
+- 🌱 Currently enhancing my skills in Pyhton HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
 - ✨ Completed Full Stack Development at NxT Wave
 - 🎓 Pursuing Bachelor's in Computer Science and Engineering
 
